@@ -42,9 +42,4 @@ int main(void)
 	_printf("Unknown:[%r]\n");
 	printf("Unknown:[%r]\n");
 	return (0);
-<<<<<<< HEAD
 }
-=======
-
-}
->>>>>>> dddb5e023ce3b4501b9b26a3cc08e3cfa87350bd
